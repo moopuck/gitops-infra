@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: moopuck/reactapp-ci:58421026135aad6868b4b250a03b416b4026a463
+          image: moopuck/reactapp-ci:eba69fffeaceea903ece4019d2214d6aaefa8042
           imagePullPolicy: Always
           ports:
             - containerPort: 80
